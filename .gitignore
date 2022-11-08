@@ -48,6 +48,7 @@ Content/StarterContent/
 Content/LightProfilePack/
 Build/*
 Builds/*
+Content/Textures/
 
 # Binary Files
 Binaries/*
