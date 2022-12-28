@@ -49,6 +49,7 @@ Content/LightProfilePack/
 Build/*
 Builds/*
 Content/Textures/
+Content/Props/
 
 # Binary Files
 Binaries/*
