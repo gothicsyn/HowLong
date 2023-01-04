@@ -50,6 +50,7 @@ Build/*
 Builds/*
 Content/Textures/
 Content/Props/
+Content/StoreAssets/
 
 # Binary Files
 Binaries/*
