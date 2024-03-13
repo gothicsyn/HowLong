@@ -51,6 +51,8 @@ Builds/*
 Content/Textures/
 Content/Props/
 Content/StoreAssets/
+Content/Sounds/
+Content/Mannequin/
 
 # Binary Files
 Binaries/*
